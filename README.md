@@ -1,4 +1,3 @@
-# CSC-252-project
 #include <iostream>
 using namespace std;
 
